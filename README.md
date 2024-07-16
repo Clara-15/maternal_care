@@ -1,4 +1,4 @@
-# GenesisPredict - Advanced Maternal and Fetal Health Prediction Platform
+# MedPredict - Advanced Maternal and Fetal Health Prediction Platform
 
 ## Introduction
 
