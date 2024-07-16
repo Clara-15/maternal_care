@@ -2,10 +2,10 @@
 
 ## Introduction
 
-Welcome to GenesisPredict, an innovative platform dedicated to advancing maternal and fetal health through predictive analysis. MedPredict empowers healthcare professionals and users alike by providing accurate predictions and proactive risk management related to pregnancy.
+Welcome to MedPredict, an innovative platform dedicated to advancing maternal and fetal health through predictive analysis. MedPredict empowers healthcare professionals and users alike by providing accurate predictions and proactive risk management related to pregnancy.
 
 ### Webapp URL
-GenesisPredict: [GenesisPredict link](https://maternalcare-cbupxflodo4uhz8hzqqqng.streamlit.app/)
+GenesisPredict: [MedPredict link](https://maternalcare-cbupxflodo4uhz8hzqqqng.streamlit.app/)
 
 ## Key Features
 
@@ -32,7 +32,7 @@ Follow these steps to run the Streamlit code locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/genesispredict.git
+git clone https://github.com/your-username/medpredict.git
 cd genesispredict
 ```
 ### Install Dependencies
